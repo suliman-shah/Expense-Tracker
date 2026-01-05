@@ -416,7 +416,7 @@ def main():
     st.markdown(
         """
         <div style='text-align: center; color: gray; font-size: 0.85rem; margin-top: 2rem;'>
-        <i class='fas fa-heart' style='color: #e74c3c;'></i> Made with care | Expense Tracker v1.0
+        <i class='fas fa-heart' style='color: #e74c3c;'></i> 2026 | Expense Tracker v1.0
         </div>
         """,
         unsafe_allow_html=True
